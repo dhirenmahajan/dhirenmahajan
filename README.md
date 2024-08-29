@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dhiren Mahajan, a junior majoring in Computer Science at the University of Cincinnati. My passion lies in programming, and I find joy in exploring the realms of technology. Outside the coding world, I'm an avid soccer enthusiast, love traveling to new places, hitting the gym, and engaging in various athletics.
+I'm Dhiren Mahajan, a 4th Year majoring in Computer Science at the University of Cincinnati. My passion lies in programming, and I find joy in exploring the realms of technology. Outside the coding world, I'm an avid soccer enthusiast, love traveling to new places, hitting the gym, and engaging in various athletics.
 
 ## 🌱 Currently Learning
 I am currently delving into the exciting realms of machine learning with a focus on TensorFlow and PyTorch. Exploring the possibilities these frameworks offer is a fascinating journey, and I'm eager to apply my knowledge in real-world projects.
