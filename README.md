@@ -5,7 +5,6 @@ I am **Dhiren Mahajan**, a senior pursuing a Bachelor of Science in Computer Sci
 ---
 
 ## Contact Information
-- **Phone:** (513) 302-4035  
 - **Email:** mahajadn@mail.uc.edu  
 - **LinkedIn:** [linkedin.com/in/dhirenmahajan](https://www.linkedin.com/in/dhirenmahajan)  
 - **GitHub:** [github.com/dhirenmahajan](https://github.com/dhirenmahajan)
