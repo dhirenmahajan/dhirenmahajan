@@ -13,7 +13,7 @@ I am **Dhiren Mahajan**, a senior pursuing a Bachelor of Science in Computer Sci
 
 ## Co-op Work Experience
 
-### AI/ML Developer — Retransform (An Apex Group Company)  
+### AI/ML Developer — Phillips Edison & Company  
 *January 2025 – August 2025*  
 - Architected and deployed a **utility tracking solution** for 350+ properties using Python, Flask, Spark, and SQL, reducing manual data entry errors by 60%.  
 - Built **API-driven ETL pipelines** with Azure AI Studio and Data Factory, processing 400+ daily emails with 95% faster turnaround.  
